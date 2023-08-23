@@ -23,6 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-kumar21&show_icons=true&locale=en&layout=compact" alt="arun-kumar21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-kumar21&show_icons=true&locale=en" alt="arun-kumar21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-kumar21&" alt="arun-kumar21" /></p>

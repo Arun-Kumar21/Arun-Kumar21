@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **react , JS , tailwind**
-
 - 📫 How to reach me **ak3930566@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

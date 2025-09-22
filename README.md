@@ -1,4 +1,4 @@
 Hi there, I’m Arun Kumar
 
-- Currently learning deep neural networks and transformers.  
+- Currently learning reinforcement learning.  
 - Experienced with the MERN stack and Next.js.
